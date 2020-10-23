@@ -1,3 +1,4 @@
+//Using linked list Selection Sort is performed
 #include<stdio.h>
 #include<stdlib.h>
 struct node
